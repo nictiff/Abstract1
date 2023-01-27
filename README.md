@@ -14,5 +14,13 @@
         <p>The abstract movement is...</p>
         <!-- This will have the information about the abstract movement -->
         </body>
+         <body>
+            <!-- this will be where i explain how the abstract movement as progressed -->
+            <h2>Timeline</h2>
+            <li>1700..</li>
+            <li>1800..</li>
+            <li>1900..</li>
+            <li>2000..</li>
+            <!-- this will be about the artists and their accomplishments in their time -->
  </html>
 
