@@ -22,5 +22,16 @@
             <li>1900..</li>
             <li>2000..</li>
             <!-- this will be about the artists and their accomplishments in their time -->
+            <h2>Famous Artists</h2>
+            <li>Wassily Kandinsky (1866-1944></li>
+            <p>Info about artist</p>
+            <li>Piet Mondrian (1872-1944)</li>
+            <p>info about artist</p>
+            <li>Kazimir Malevich (1878-1935)</li>
+            <p>info about artist</p>
+            <li>Georgia O'Keeffe (1887-1986)</li>
+            <p>info about artist</p>
+            <!-- this secton will show pictures of the artisits art -->
+
  </html>
 
