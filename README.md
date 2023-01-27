@@ -32,6 +32,20 @@
             <li>Georgia O'Keeffe (1887-1986)</li>
             <p>info about artist</p>
             <!-- this secton will show pictures of the artisits art -->
+            <h2>Abstract Art</h2>
+            <img src="https://artincontext.org/wp-content/uploads/2021/05/Abstract-Painters.jpg">
+            <p>Kandinsky's art</p>
+            <p>add info about this piece</p>
+            <img src="https://artincontext.org/wp-content/uploads/2021/05/Famous-Abstract-Painters.jpg">
+            <p>Mondrian's art</p>
+            <p>add info about this piece</p>
+            <img src="https://artincontext.org/wp-content/uploads/2021/05/Artwork-by-Abstract-Painters.jpg">
+            <p>Malevich's art</p>
+            <p>add info about this piece</p>
+            <img src="https://artincontext.org/wp-content/uploads/2021/05/Comprehensive-List-of-Abstract-Artists.jpg">
+            <p>O'Keeffe's art</p>
+            <p>add info about this piece</p>
+        </body>
 
  </html>
 
